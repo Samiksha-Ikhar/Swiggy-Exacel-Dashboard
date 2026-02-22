@@ -1,24 +1,46 @@
-# Swiggy-Exacel-Dashboard
-Interactive Excel dashboard analyzing Swiggy sales data using Pivot Tables, Charts, and KPIs.
+# 📊 Swiggy Sales Analysis Dashboard (Excel Project)
 
-## Project Overview
-This project analyzes Swiggy sales data using Microsoft Excel and presents insights through an interactive dashboard.
+## 📌 Project Overview  
+This project presents a comprehensive sales analysis of Swiggy data using Microsoft Excel. The objective was to analyze order trends, revenue performance, and category insights through an interactive and visually structured dashboard.
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts
-- Slicers
-- Data Cleaning
+The dashboard helps in understanding business performance using key metrics and data visualization techniques.
 
-## Key Insights
-- Monthly order trends
-- Revenue analysis
-- Top-performing categories
-- Customer behavior insights
+---
 
-## Dashboard Preview
-(Add dashboard screenshot here)
+## 🛠 Tools & Techniques Used  
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Data Cleaning  
+- KPI Metrics  
 
-## Author
-samiksha ikhar
+---
+
+## 📈 Key Insights  
+- Monthly and yearly sales trends  
+- Revenue performance analysis  
+- Top-performing categories  
+- Order distribution patterns  
+- Business performance indicators  
+
+---
+
+## 🖥 Dashboard Preview  
+
+![Dashboard Preview](https://drive.google.com/file/d/1ZP1HlOenjLJeI1EG2H3EkqJEggrGwKWe/view?usp=drive_link).
+
+The above image represents the final interactive Excel dashboard built for business analysis and decision-making.
+
+---
+
+## 📥 Download Full Excel Dashboard  
+
+Due to file size limitations on GitHub, the complete Excel file is available here:
+
+[Download Excel File](https://drive.google.com/file/d/1ZP1HlOenjLJeI1EG2H3EkqJEggrGwKWe/view?usp=drive_link).
+
+---
+
+## 👤 Author  
+Samiksha Ikhar
