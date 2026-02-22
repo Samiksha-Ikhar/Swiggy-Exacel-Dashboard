@@ -36,10 +36,11 @@ The above image represents the final interactive Excel dashboard built for busin
 
 ## 📥 Download Full Excel Dashboard  
 
-Due to file size limitations on GitHub, the complete Excel file is available here:
+Due to GitHub file size limitations, the complete Excel dashboard can be downloaded here:  
 
 [Download Excel File](https://drive.google.com/file/d/1ZP1HlOenjLJeI1EG2H3EkqJEggrGwKWe/view?usp=sharing).
 
+⚠ Note: Excel file preview may not be available in the browser. Please download the file to view the full dashboard.
 ---
 
 ## 👤 Author  
