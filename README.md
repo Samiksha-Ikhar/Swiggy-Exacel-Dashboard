@@ -38,7 +38,7 @@ The above image represents the final interactive Excel dashboard built for busin
 
 Due to file size limitations on GitHub, the complete Excel file is available here:
 
-[Download Excel File](https://drive.google.com/file/d/1ZP1HlOenjLJeI1EG2H3EkqJEggrGwKWe/view?usp=drive_link).
+[Download Excel File](https://drive.google.com/file/d/1ZP1HlOenjLJeI1EG2H3EkqJEggrGwKWe/view?usp=sharing).
 
 ---
 
