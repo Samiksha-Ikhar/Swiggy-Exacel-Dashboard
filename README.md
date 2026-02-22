@@ -28,7 +28,7 @@ The dashboard helps in understanding business performance using key metrics and 
 
 ## 🖥 Dashboard Preview  
 
-![Dashboard Preview](https://drive.google.com/file/d/1ZP1HlOenjLJeI1EG2H3EkqJEggrGwKWe/view?usp=drive_link).
+![Dashboard Preview](https://github.com/Samiksha-Ikhar/Swiggy-Exacel-Dashboard/blob/main/Swiggy%20Dashboard.png).
 
 The above image represents the final interactive Excel dashboard built for business analysis and decision-making.
 
